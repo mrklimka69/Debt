@@ -1,0 +1,42 @@
+body {
+    font-weight: 700;
+    font-size: 30px;
+
+    
+}
+
+.content {
+    display: flex;
+
+    text-align: center;
+
+    
+
+    background-color: rgb(185, 185, 185);
+}
+
+.po_title, .ti_title{
+    color: blue;
+}
+
+.payouts_info {
+    border: 1px solid #00ff22;
+
+    padding: 10px;
+}
+
+.po_elem {
+    color: #01af18;
+}
+
+.takes_info {
+    margin-left: 5px;
+    padding: 10px;
+
+
+    border: 1px solid #ff0000;
+}
+
+.ti_elem {
+    color: #a30000;
+}
