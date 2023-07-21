@@ -1,5 +1,5 @@
 const payouts = [100, 15];
-const takes = [10];
+const takes = [10, 500];
 
 let out = "";
 
